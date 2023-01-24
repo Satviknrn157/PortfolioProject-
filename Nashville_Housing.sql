@@ -1,6 +1,8 @@
--- data taken from https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
--- Nashville housing data 
+-- Data cleaning and data Parsing 
 
+--data taken from https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
+-- Nashville housing data 
+-- 
 SELECT *
 FROM nashvillehousing
 
